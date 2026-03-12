@@ -1,0 +1,15 @@
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\bin\Debug\net10.0\Exercicio7.exe
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\bin\Debug\net10.0\Exercicio7.deps.json
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\bin\Debug\net10.0\Exercicio7.runtimeconfig.json
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\bin\Debug\net10.0\Exercicio7.dll
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\bin\Debug\net10.0\Exercicio7.pdb
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.AssemblyInfo.cs
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.sourcelink.json
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.dll
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\refint\Exercicio7.dll
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.pdb
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\Exercicio7.genruntimeconfig.cache
+C:\Users\phdsc\workspace\adp-learning-path\lista-de-exercicios1\Exercicio7\obj\Debug\net10.0\ref\Exercicio7.dll
