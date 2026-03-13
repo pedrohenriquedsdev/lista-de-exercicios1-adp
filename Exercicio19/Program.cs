@@ -3,7 +3,14 @@
 
 int soma = 0;
 
-for (int i = 1; i <= 500; i += 2) if (i % 3 == 0) soma += i;
+for (int i = 1; i <= 500; i += 2)
+{
+    if (i % 3 == 0)
+    {
+        soma += i;
+    }
+}
+
 Console.WriteLine(soma);
 
 
